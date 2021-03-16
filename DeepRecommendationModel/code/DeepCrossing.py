@@ -1,6 +1,8 @@
 import warnings
 warnings.filterwarnings("ignore")
 import itertools
+import sys
+sys.path.append('/home/yin/workplace/RS/team-learning-rs/DeepRecommendationModel/code')
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
@@ -14,7 +16,7 @@ from tensorflow.keras.models import *
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import  MinMaxScaler, LabelEncoder
 
-from utils import SparseFeat, DenseFeat, VarLenSparseFeat
+from DeepRecommendationModel.code.utils import SparseFeat, DenseFeat, VarLenSparseFeat
 
 
 def data_process(data_df, dense_features, sparse_features):

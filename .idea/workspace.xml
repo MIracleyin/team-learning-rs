@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0be6346-9ad8-4260-b618-6d00e3608e66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing/dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/__init__,py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/task-01/DataLoadandPreprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/AFM.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/AFM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/DCN.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/DCN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/DIEN.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/DIEN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/DIN.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/DIN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/DeepCrossing.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/DeepFM.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/DeepFM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/NCF.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/NCF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/NFM.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/NFM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/PNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/PNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/PlotModels.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/PlotModels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/WideNDeep.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/WideNDeep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/contrib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/contrib/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/contrib/rnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/contrib/rnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/contrib/rnn_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/contrib/rnn_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/contrib/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/contrib/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/data/avazu_sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/data/avazu_sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/data/criteo_sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/data/criteo_sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/data/ml-1m/README" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/data/ml-1m/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/data/ml-1m/data_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/data/ml-1m/data_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/data/ml-1m/movies.dat" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/data/ml-1m/movies.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/data/ml-1m/ratings.dat" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/data/ml-1m/ratings.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/data/ml-1m/users.dat" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/data/ml-1m/users.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/data/movie_sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/data/movie_sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/data/movielens_sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/data/movielens_sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/imgs/AFM.png" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/imgs/AFM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/imgs/DCN.png" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/imgs/DCN.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/imgs/DIEN.png" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/imgs/DIEN.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/imgs/DIN.png" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/imgs/DIN.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/imgs/DeepCrossing.png" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/imgs/DeepCrossing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/imgs/DeepFM.png" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/imgs/DeepFM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/imgs/NCF.png" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/imgs/NCF.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/imgs/NFM.png" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/imgs/NFM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/imgs/PNN.png" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/imgs/PNN.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/imgs/Wide&amp;Deep.png" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/imgs/Wide&amp;Deep.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepRecommendationModel/代码/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepRecommendationModel/code/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="36531a4a-f076-4df8-bca2-e13b860d3ebf" />
+  <component name="ProjectId" id="1phj0BThWJ7zeXzXf8r7ndYyNVV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Recommender-System-with-TF2.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Python.DeepCrossing (1)">
+    <configuration name="DeepCrossing (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="team-learning-rs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepRecommendationModel/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DeepCrossing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="team-learning-rs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepRecommendationModel/代码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepRecommendationModel/代码/DeepCrossing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="team-learning-rs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing/dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="team-learning-rs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="team-learning-rs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DeepCrossing (1)" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python.dataset" />
+        <item itemvalue="Python.utils" />
+        <item itemvalue="Python.DeepCrossing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0be6346-9ad8-4260-b618-6d00e3608e66" name="Default Changelist" comment="" />
+      <created>1615641990867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615641990867</updated>
+      <workItem from="1615641992141" duration="12553000" />
+      <workItem from="1615873490077" duration="5317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1063" y="492" width="424" height="486" key="FileChooserDialogImpl" timestamp="1615793843536">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state x="1063" y="492" width="424" height="486" key="FileChooserDialogImpl/0.28.2560.1412/2560.360.1920.1080@0.28.2560.1412" timestamp="1615793843536" />
+    <state width="2506" height="296" key="GridCell.Tab.0.bottom" timestamp="1615814940343">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="296" key="GridCell.Tab.0.bottom/0.28.2560.1412/2560.360.1920.1080@0.28.2560.1412" timestamp="1615814940343" />
+    <state width="2506" height="296" key="GridCell.Tab.0.center" timestamp="1615814940343">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="296" key="GridCell.Tab.0.center/0.28.2560.1412/2560.360.1920.1080@0.28.2560.1412" timestamp="1615814940343" />
+    <state width="2506" height="296" key="GridCell.Tab.0.left" timestamp="1615814940343">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="296" key="GridCell.Tab.0.left/0.28.2560.1412/2560.360.1920.1080@0.28.2560.1412" timestamp="1615814940343" />
+    <state width="2506" height="296" key="GridCell.Tab.0.right" timestamp="1615814940343">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="296" key="GridCell.Tab.0.right/0.28.2560.1412/2560.360.1920.1080@0.28.2560.1412" timestamp="1615814940343" />
+    <state width="2506" height="383" key="GridCell.Tab.1.bottom" timestamp="1615814254600">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="383" key="GridCell.Tab.1.bottom/0.28.2560.1412/2560.360.1920.1080@0.28.2560.1412" timestamp="1615814254600" />
+    <state width="2506" height="383" key="GridCell.Tab.1.center" timestamp="1615814254600">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="383" key="GridCell.Tab.1.center/0.28.2560.1412/2560.360.1920.1080@0.28.2560.1412" timestamp="1615814254600" />
+    <state width="2506" height="383" key="GridCell.Tab.1.left" timestamp="1615814254600">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="383" key="GridCell.Tab.1.left/0.28.2560.1412/2560.360.1920.1080@0.28.2560.1412" timestamp="1615814254600" />
+    <state width="2506" height="383" key="GridCell.Tab.1.right" timestamp="1615814254600">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="383" key="GridCell.Tab.1.right/0.28.2560.1412/2560.360.1920.1080@0.28.2560.1412" timestamp="1615814254600" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing/dataset.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/team_learning_rs$DataLoadandPreprocessing.coverage" NAME="DataLoadandPreprocessing Coverage Results" MODIFIED="1615796017812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task/task-01" />
+    <SUITE FILE_PATH="coverage/team_learning_rs$DeepCrossing.coverage" NAME="DeepCrossing Coverage Results" MODIFIED="1615796372878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepRecommendationModel/代码" />
+    <SUITE FILE_PATH="coverage/team_learning_rs$UserCF.coverage" NAME="UserCF Coverage Results" MODIFIED="1615795710822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RecommendationSystemFundamentals/源代码" />
+    <SUITE FILE_PATH="coverage/team_learning_rs$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1615813729523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing" />
+    <SUITE FILE_PATH="coverage/team_learning_rs$utils.coverage" NAME="utils Coverage Results" MODIFIED="1615813345525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing" />
+    <SUITE FILE_PATH="coverage/team_learning_rs$model.coverage" NAME="model Coverage Results" MODIFIED="1615814387382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepRecommendationModel/code/DeepCrossing" />
+    <SUITE FILE_PATH="coverage/team_learning_rs$DeepCrossing__1_.coverage" NAME="DeepCrossing (1) Coverage Results" MODIFIED="1615814940329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepRecommendationModel/code" />
+  </component>
+</project>
